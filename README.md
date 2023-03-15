@@ -35,22 +35,22 @@ Proje `movies.js` dosyasında yer alan filmleri sırayla görüntüleyebildiniz 
 
 * [+] **`store`** oluşturmanın vakti geldi. Tüm uygulamanızı kapsayacak şekilde bir store oluşturun.
 
-* [ ] Store içerisinde duran veriler projede nerede kullanılacak? **`useSelector`** hooku ile store içerisinden gerekli verileri alın ve ilgili yerlerde kullanın.
+* [+] Store içerisinde duran veriler projede nerede kullanılacak? **`useSelector`** hooku ile store içerisinden gerekli verileri alın ve ilgili yerlerde kullanın.
 
-* [ ] Artık `action`larla çalışmaya hazırız. Hangi actionlar olmalı, hangi kısımlarda tetiklenmeli? İlgili yerlerde bu actionları **`dispatch`** edin.
+* [+] Artık `action`larla çalışmaya hazırız. Hangi actionlar olmalı, hangi kısımlarda tetiklenmeli? İlgili yerlerde bu actionları **`dispatch`** edin.
 
 ### Görev 3: Projeye redux-logger eklemek
 
-- [ ] Projenize [redux-logger](https://github.com/LogRocket/redux-logger) paketini ekleyin.
+- [+] Projenize [redux-logger](https://github.com/LogRocket/redux-logger) paketini ekleyin.
 
-- [ ] Dokümantasyonunda tarif edildiği gibi projenize eklemeye çalışın. Sorun yaşarsanız hap bilgiler içerisindeki örneği takip edin.
+- [+] Dokümantasyonunda tarif edildiği gibi projenize eklemeye çalışın. Sorun yaşarsanız hap bilgiler içerisindeki örneği takip edin.
 
-- [ ] Store ile ilgili değişiklikler yaptığınızda logger paketinin vermiş olduğu logları inceleyin.
+- [+] Store ile ilgili değişiklikler yaptığınızda logger paketinin vermiş olduğu logları inceleyin.
 
 ### Esnek Görevler
 
-- [ ] Filmler arasında gezinmeyi kolaylaştırmak için bir "Önceki", bir de "Başa dön" butonu ekleyin. Bunları görüntülemeniz gereken yerleri bulun ve ekleyin.
+- [+] Filmler arasında gezinmeyi kolaylaştırmak için bir "Önceki", bir de "Başa dön" butonu ekleyin. Bunları görüntülemeniz gereken yerleri bulun ve ekleyin.
 
-- [ ] Proje stillerini kendi istediğiniz şekilde değiştirmeye çalışın.
+- [+] Proje stillerini kendi istediğiniz şekilde değiştirmeye çalışın.
 
-- [ ] Film listesi 20 adet film içeriyor. Filmler arasında gezinirken son filme geldiğinizde "Sıradaki" butonunun, ilk filme geldiğinizde "Önceki" butonunun görüntülenmemesini sağlayın.
+- [+] Film listesi 20 adet film içeriyor. Filmler arasında gezinirken son filme geldiğinizde "Sıradaki" butonunun, ilk filme geldiğinizde "Önceki" butonunun görüntülenmemesini sağlayın.
